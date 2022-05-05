@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "combatant",
+    "slug": "combatant",
+    "scheme": "combatant",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
